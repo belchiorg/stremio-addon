@@ -67,6 +67,12 @@ builder.defineStreamHandler(async ({ type, id }) => {
     `${title} dublado português`,
     `${title} dublado PT-PT`,
     `${title} dub pt`,
+    `${title} dublado`,
+    `${title} português europeu`,
+    `${title} áudio português`,
+    `${title} audio pt`,
+    `${title} portuguese dubbed`,
+    `${title} pt-pt`,
   ];
 
   const seen = new Set();
