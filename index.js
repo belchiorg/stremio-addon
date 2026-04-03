@@ -64,9 +64,9 @@ builder.defineStreamHandler(async ({ type, id }) => {
   }
 
   const queries = [
-    `${title} legendado português`,
-    `${title} PT-PT`,
-    `${title} portuguese`,
+    `${title} dublado português`,
+    `${title} dublado PT-PT`,
+    `${title} dub pt`,
   ];
 
   const seen = new Set();
